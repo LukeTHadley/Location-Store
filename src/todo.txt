@@ -1,0 +1,2 @@
+CURRENT ISSUSE:
+    - plugin does not specify API version in config.

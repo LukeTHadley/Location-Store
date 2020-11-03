@@ -1,0 +1,9 @@
+name: LocationHelper
+version: 0.4
+author: Thomas9078
+main: test.Main
+commands:
+  locationhelper:
+    description: Randomly teleports you to a safe location.
+  local:
+    description: Randomly teleports you to a safe location.
