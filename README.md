@@ -1,5 +1,5 @@
 # LocationHelper (Unfinished)
-####### A Spigot 1.15.1 Minecraft plugin allowing users to display there locations into chat as well as storing locations with names in a SQL Database. 
+###### A Spigot 1.15.1 Minecraft plugin allowing users to display there locations into chat as well as storing locations with names in a SQL Database. 
 ---
 
 # About the plugin
